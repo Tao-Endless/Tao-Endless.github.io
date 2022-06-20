@@ -1,1 +1,10 @@
-
+{
+  "articleStyles":1,
+  "customOrder":0,
+  "enableJs":true,
+  "enabled":true,
+  "enabledCookieJar":true,
+  "loadWithBaseUrl":true,
+  "ruleArticles":".excerpt",
+  "ruleContent":"iframe@src<js>result=java.ajax(\"https://swzj7.xzy\"+result)</js>
+  
