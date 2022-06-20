@@ -1,4 +1,3 @@
-<code>
 {
   "articleStyles":1,
   "customOrder":0,
@@ -12,4 +11,3 @@
   "ruleLink":"h2@a@href",
   "ruleNextPage":".next-page.0@a@href",
   "rulePubDate":".timelong@text",
-  </code>
